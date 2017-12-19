@@ -14,9 +14,9 @@ import fr.dta.webapprest.model.Book;
 
 @Repository
 @Transactional
-public class BookRepository {
+public class BookDAO {
 
-	public BookRepository() {
+	public BookDAO() {
 		// TODO Auto-generated constructor stub
 	}
 
